@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andbtk/.gradle/caches/modules-2/files-2.1/com.squareup.spoon/spoon-client/1.1.1/745ab995cac8765c5f7477c7585e40618efc60e5/spoon-client-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="745ab995cac8765c5f7477c7585e40618efc60e5">
+        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/androidTest/debug/spoon-client-1.1.1_3442cb2352e2060ad6eb78bea4cd7e0502a0a937.jar" />
+    </item>
+    <item
+        jar="/home/andbtk/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.2.1/56ab8d87d966a067ee3795ee137fbd51b6581ec9/robotium-solo-5.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56ab8d87d966a067ee3795ee137fbd51b6581ec9">
+        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.2.1_5a636b4a78b8646134bb5c0449ff5dabea648b29.jar" />
+    </item>
+
+</items>
