@@ -26,7 +26,6 @@ genymotion {
         }
     }
     config {
-        genymotionPath = "/home/andbtk/tools/genymotion"
         taskLaunch = "spoon"
     }
 }
