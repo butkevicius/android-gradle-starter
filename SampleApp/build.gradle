@@ -21,9 +21,6 @@ genymotion {
         nexus5_44 {
             template "Google Nexus 5 - 4.4.4 - API 19 - 1080x1920"
         }
-        xperia5_23 {
-            template "Sony Xperia S - 2.3.7 - API 10 - 720x1280"
-        }
     }
     config {
         taskLaunch = "spoon"
