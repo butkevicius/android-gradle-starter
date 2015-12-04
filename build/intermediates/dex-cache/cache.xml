@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jar="/home/andbtk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/classes-35cd0ee9dccc48273f0e816a9483be3a981a63b4.jar" />
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-626fa72d819d8e6d0db2b72cd95970d363b13296.jar" />
     </item>
     <item
         jar="/home/andbtk/.gradle/caches/modules-2/files-2.1/com.squareup.spoon/spoon-client/1.2.1/878bbb97c6f1874f3fb28ed0808eb51ddb002ddc/spoon-client-1.2.1.jar"
@@ -16,11 +16,11 @@
         <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/androidTest/debug/spoon-client-1.2.1-2573daa96c975ec16af5ba6705bce220aa5d9794.jar" />
     </item>
     <item
-        jar="/home/andbtk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-626fa72d819d8e6d0db2b72cd95970d363b13296.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0de0d77af744afbe8dbd42f60b70ef0a9faeb3be.jar" />
     </item>
     <item
         jar="/home/andbtk/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.2.1/56ab8d87d966a067ee3795ee137fbd51b6581ec9/robotium-solo-5.2.1.jar"
@@ -30,11 +30,11 @@
         <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.2.1-5a636b4a78b8646134bb5c0449ff5dabea648b29.jar" />
     </item>
     <item
-        jar="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jar="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0de0d77af744afbe8dbd42f60b70ef0a9faeb3be.jar" />
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/pre-dexed/debug/classes-35cd0ee9dccc48273f0e816a9483be3a981a63b4.jar" />
     </item>
     <item
         jar="/home/andbtk/projects/spoon-tests/AndroidGradleStarter-master/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"

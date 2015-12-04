@@ -16,15 +16,11 @@ apply plugin: 'com.android.application'
 apply plugin: 'spoon'
 apply plugin: "genymotion"
 
-genymotion {
-    devices {
-        nexus5_44 {
-            template "Google Nexus 5 - 4.4.4 - API 19 - 1080x1920"
-        }
-    }
-    config {
-        taskLaunch = "spoon"
-    }
+def isCiServer = System.getenv().containsKey("IS_CI_JOB")
+if (isCiServer) {
+    apply from: "genymotion-ci.gradle"
+} else {
+    apply from: "genymotion-dev.gradle"
 }
 
 

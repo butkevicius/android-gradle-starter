@@ -1,0 +1,10 @@
+genymotion {
+    devices {
+        nexus5 {
+            template "Google Nexus 5 - 4.4.4 - API 19 - 1080x1920"
+        }
+    }
+    config {
+        taskLaunch = "spoon"
+    }
+}
